@@ -33,6 +33,10 @@ Common photo-editing apps like iPhone Photos or Instagram offer plenty of filter
 - **Download**: Export your filtered image with one click.  
 - **Responsive UI**: Built with modern React components for a sleek experience.
 
+<h3>Exclaimer</h3>
+
+Currently, this app works only on Desktop. Mobile devices are able to view the app and apply filters, but are not able to download the filtered image.
+
 ---
 
 <h2 id="demo">Demo</h2>
