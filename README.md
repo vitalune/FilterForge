@@ -35,7 +35,7 @@ Common photo-editing apps like iPhone Photos or Instagram offer plenty of filter
 
 <h3>Exclaimer</h3>
 
-Currently, this app works only on Desktop. Mobile devices are able to view the app and apply filters, but are not able to download the filtered image.
+Currently, this app works only on Desktop. Mobile devices are able to view the app and apply filters, but are unable to download the filtered image.
 
 ---
 
