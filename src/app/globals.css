@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer base {
+  :root {
+    --background: 240 10% 98%; /* Light Gray */
+    --foreground: 220 5% 10%; /* Dark Gray */
+    --card: 240 10% 98%;
+    --card-foreground: 220 5% 10%;
+    --popover: 240 10% 98%;
+    --popover-foreground: 220 5% 10%;
+    --primary: 350 50% 40%; /* Rose Gold */
+    --primary-foreground: 0 0% 98%;
+    --secondary: 240 10% 90%; /* Slightly lighter gray */
+    --secondary-foreground: 220 5% 10%;
+    --muted: 240 10% 90%; /* Light Gray */
+    --muted-foreground: 220 8% 60%; /* Medium Gray */
+    --accent: 39 70% 70%; /* Accent color (softer rose gold) */
+    --accent-foreground: 220 5% 10%;
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 13% 60%; /* Medium Gray */
+    --input: 240 13% 60%; /* Medium Gray */
+    --ring: 350 50% 40%; /* Rose Gold */
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+    --radius: 0.5rem;
+    --sidebar-background: 240 10% 98%;
+    --sidebar-foreground: 220 5% 10%;
+    --sidebar-primary: 350 50% 40%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 39 70% 70%;
+    --sidebar-accent-foreground: 220 5% 10%;
+    --sidebar-border: 240 13% 60%;
+    --sidebar-ring: 350 50% 40%;
+  }
+  .dark {
+    --background: 240 10% 98%; /* Light Gray */
+    --foreground: 220 5% 10%; /* Dark Gray */
+    --card: 240 10% 98%;
+    --card-foreground: 220 5% 10%;
+    --popover: 240 10% 98%;
+    --popover-foreground: 220 5% 10%;
+    --primary: 350 50% 40%; /* Rose Gold */
+    --primary-foreground: 0 0% 98%;
+    --secondary: 240 10% 90%; /* Slightly lighter gray */
+    --secondary-foreground: 220 5% 10%;
+    --muted: 240 10% 90%; /* Light Gray */
+    --muted-foreground: 220 8% 60%; /* Medium Gray */
+    --accent: 39 70% 70%; /* Accent color (softer rose gold) */
+    --accent-foreground: 220 5% 10%;
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 13% 60%; /* Medium Gray */
+    --input: 240 13% 60%; /* Medium Gray */
+    --ring: 350 50% 40%; /* Rose Gold */
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+    --sidebar-background: 240 10% 98%;
+    --sidebar-foreground: 220 5% 10%;
+    --sidebar-primary: 350 50% 40%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 39 70% 70%;
+    --sidebar-accent-foreground: 220 5% 10%;
+    --sidebar-border: 240 13% 60%;
+    --sidebar-ring: 350 50% 40%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
