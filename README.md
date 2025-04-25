@@ -1,6 +1,6 @@
-<h1 style="text-align: center">FilterForge 🎨</h1>
+<h1><center>FilterForge 🎨</center></h1>
 
-<h2 style="text-align: center"><a href=https://studio--filterforge-bpwk4.us-central1.hosted.app/)>🚀 Live Demo</a></h2>
+<h2><center><a href=https://studio--filterforge-bpwk4.us-central1.hosted.app/)>🚀 Live Demo</center></a></h2>
 
 ---
 
