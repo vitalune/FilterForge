@@ -1,23 +1,23 @@
-# FilterForge 🎨
+<h1>FilterForge 🎨</h1>
 
 [🚀 Live Demo](https://studio--filterforge-bpwk4.us-central1.hosted.app/)
 
 ---
 
-## Table of Contents
+<h2>Table of Contents</h2>
 
-- [Motivation](#motivation)  
-- [Features](#features)  
-- [Demo](#demo)  
-- [Tech Stack](#tech-stack)  
-- [Available Filters](#available-filters)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
+- <a href="#motivation">Motivation</a>  
+- <a href="#features">Features</a>  
+- <a href="#demo">Demo</a>  
+- <a href="#tech-stack">Tech Stack</a>  
+- <a href="#available-filters">Available Filters</a>  
+- <a href="#contributing">Contributing</a>  
+- <a href="#license">License</a>  
+- <a href="#contact">Contact</a>  
 
 ---
 
-## Motivation {#motivation}
+<h2 id="motivation">Motivation</h2>
 
 Common photo-editing apps like iPhone Photos or Instagram offer plenty of filters- but don't include the full spectrum of options. **FilterForge** was born out of a desire to explore more “uncommon” photographic transformations, letting you tweak and combine effects you don’t see every day.  
 
@@ -25,7 +25,7 @@ Common photo-editing apps like iPhone Photos or Instagram offer plenty of filter
 
 ---
 
-## Features {#features}
+<h2 id="features">Features</h2>
 
 - **Upload & Preview**: Drag or select an image to instantly preview filters.  
 - **Adjustable Intensity**: Fine-tune each filter’s strength on a 0–100 scale.  
@@ -35,12 +35,12 @@ Common photo-editing apps like iPhone Photos or Instagram offer plenty of filter
 
 ---
 
-## Demo {#demo}
+<h2 id="demo">Demo</h2>
 
 ![FilterForge Screenshot](demoimg.png)  
 *Preview of the filter controls and live preview pane.*
 
-## Tech Stack {#tech-stack}
+<h2 id="tech-stack">Tech Stack</h2>
 
 * **Framework:** [Next.js](https://nextjs.org/) (App Router, React)
 * **Language:** TypeScript
@@ -48,7 +48,7 @@ Common photo-editing apps like iPhone Photos or Instagram offer plenty of filter
 * **Styling:** Tailwind CSS
 * **Hosting:** Firebase
 
-## Available Filters {#available-filters}
+<h2 id="available-filters">Available Filters</h2>
 
 | Name | Description |
 | ---- | ----------- |
@@ -59,7 +59,7 @@ Common photo-editing apps like iPhone Photos or Instagram offer plenty of filter
 | Infrared | Simulate infrared photography |
 | Dual-Color | Mix of hue-rotate and sepia |
 
-## Contributing {#contributing}
+<h2 id="contributing">Contributing</h2>
 
 To suggest a new filter or contribute code:
 
@@ -70,10 +70,10 @@ To suggest a new filter or contribute code:
 
 *Feel free to open an issue for discussion first.*
 
-## License {#license}
+<h2 id="license">License</h2>
 
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md)
 
-## Contact {#contact}
+<h2 id="contact">Contact</h2>
 
 Created by **Amir Valizadeh (vitalune)** - amirvalizadeh161@gmail.com
