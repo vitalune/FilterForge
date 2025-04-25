@@ -1,8 +1,6 @@
-# FilterForge: Unleash Your Inner Artist 🎨
+# FilterForge 🎨
 
-<div class="highlight">
-    <p>🚀 Explore FilterForge live: <a href="https://studio--filterforge-bpwk4.us-central1.hosted.app/">https://studio--filterforge-bpwk4.us-central1.hosted.app/</a></p>
-</div>
+🚀 Explore FilterForge live: <a href="https://studio--filterforge-bpwk4.us-central1.hosted.app/">https://studio--filterforge-bpwk4.us-central1.hosted.app/</a>
 
 ## My motivation behind FilterForge
 
