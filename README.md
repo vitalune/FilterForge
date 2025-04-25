@@ -17,7 +17,7 @@
 
 ---
 
-## Motivation
+## Motivation {#motivation}
 
 Common photo-editing apps like iPhone Photos or Instagram offer plenty of filters- but don't include the full spectrum of options. **FilterForge** was born out of a desire to explore more “uncommon” photographic transformations, letting you tweak and combine effects you don’t see every day.  
 
@@ -25,7 +25,7 @@ Common photo-editing apps like iPhone Photos or Instagram offer plenty of filter
 
 ---
 
-## Features
+## Features {#features}
 
 - **Upload & Preview**: Drag or select an image to instantly preview filters.  
 - **Adjustable Intensity**: Fine-tune each filter’s strength on a 0–100 scale.  
@@ -35,12 +35,12 @@ Common photo-editing apps like iPhone Photos or Instagram offer plenty of filter
 
 ---
 
-## Demo
+## Demo {#demo}
 
 ![FilterForge Screenshot](demoimg.png)  
 *Preview of the filter controls and live preview pane.*
 
-## Tech Stack
+## Tech Stack {#tech-stack}
 
 * **Framework:** [Next.js](https://nextjs.org/) (App Router, React)
 * **Language:** TypeScript
@@ -48,7 +48,7 @@ Common photo-editing apps like iPhone Photos or Instagram offer plenty of filter
 * **Styling:** Tailwind CSS
 * **Hosting:** Firebase
 
-## Available Filters
+## Available Filters {#available-filters}
 
 | Name | Description |
 | ---- | ----------- |
@@ -59,7 +59,7 @@ Common photo-editing apps like iPhone Photos or Instagram offer plenty of filter
 | Infrared | Simulate infrared photography |
 | Dual-Color | Mix of hue-rotate and sepia |
 
-## Contributing
+## Contributing {#contributing}
 
 To suggest a new filter or contribute code:
 
@@ -70,10 +70,10 @@ To suggest a new filter or contribute code:
 
 *Feel free to open an issue for discussion first.*
 
-## License
+## License {#license}
 
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md)
 
-## Contact
+## Contact {#contact}
 
 Created by **Amir Valizadeh (vitalune)** - amirvalizadeh161@gmail.com
